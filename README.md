@@ -1,7 +1,7 @@
 ## _Flash Info_
 _Ci joint:_
-_+ un fichier Zip contenant le code du jeu et les outils graphiques (images,...) nommé TA1.rar_
-_+ un fichier zip contenant Kivy (juste au cas où) nommé TA Info.rar_
++ _un fichier Zip contenant le code du jeu et les outils graphiques (images,...) nommé TA1.rar_
++ _un fichier zip contenant Kivy (juste au cas où) nommé TA Info.rar_
 
 # TA_1 Info : Donjon
 
