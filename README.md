@@ -19,14 +19,14 @@ Une fois que vous aurez cliqué sur Jouer !, vous voilà _In game_.
 
 Votre héros :
   - PV : 100
-  3 capacités :
+  - 3 capacités :
   - Attaquer, envoie une boule de feu qui inflige 1 pts de dégats
   - Soigner, qui vous rend 10 pts de vie
   - Fuir, si vraiment vous vous dégonflez mais cela compte comme une défaite alors n'ayez pas recours à cette option mauviète !
 
 Le boss :
   - PV : 100
-  1 capacité :
+  - 1 capacité :
   - Toute les 5 secondes, le boss vous enverra un laser qui inflige 50 + 5*(nb_laser_déjà_lancé).
   
   Autant dire qu'à un moment il sera capable de vous _OneShot_ (lorsque les dégats atteigneront 100).
