@@ -41,5 +41,5 @@ Une option "esquive" donnerait plus de skill au jeu également (à la place de "
 
 ## Bug Boule de Feu
 
-Normalement, vous devriez l'observer, mais lorsque l'on clique trop vite sur Attaquer, certaines boules de feu restent figés.
+Normalement, vous devriez l'observer, mais lorsque l'on clique trop vite sur Attaquer, certaines boules de feu restent figés dans leur trajectoire.
 C'est le seul bug que j'ai observé mais que je n'arrive pas à fixer.
